@@ -1,0 +1,429 @@
+{
+  "products": [
+    {
+      "id": 23,
+      "title": "NECKLACE",
+      "price": 5490,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.dOA_M-Llfct1mE2SRJhjWgHaFK?w=249&h=180&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 8990,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.ZYH-VQoJhJcXHsZmD4DX1QHaHa?w=217&h=218&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 1249,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.T8QKydtyeymBS644D7g90AHaEc?w=322&h=193&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 1800,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.TqiCoIZuScriWD2ruyQ1cAHaFm?w=240&h=182&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "MOTOROLA",
+      "price": 2800,
+      "brand": "MOBILE",
+      "images": [
+        "https://americaemall.com/wp-content/uploads/2020/03/motorola-moto-e5-plus-2048x2048.jpg"
+      ]
+    },
+    {
+      "title": "REDMI",
+      "price": 2000,
+      "brand": "MOBILE",
+      "images": [
+        "https://i1.wp.com/mobilecryptotech.com/wp-content/uploads/2018/09/IMG_20180919_122120.jpg?fit=1920%2C1897&ssl=1"
+      ]
+    },
+    {
+      "title": "IPHONE 10",
+      "price": 2800,
+      "brand": "MOBILE",
+      "images": [
+        "https://www.yourtokri.com/wp-content/uploads/2019/01/1a.jpg"
+      ]
+    },
+    {
+      "title": "IPHONE 14",
+      "price": 1800,
+      "brand": "MOBILE",
+      "images": [
+        "https://sivtelegram.media/wp-content/uploads/2022/09/1662402157_iPhone-14-revealing-the-alleged-technical-sheet-of-all-mobile-1024x576.jpg"
+      ]
+    },
+    {
+      "title": "TOP",
+      "price": 3800,
+      "brand": "LIBAS",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3465/270/250/12/w/314/3465270250_2_1_1.jpg?ts=1651841659071"
+      ]
+    },
+    {
+      "title": "DRESS",
+      "price": 4990,
+      "brand": "W",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3739/855/330/2/w/314/3739855330_1_1_1.jpg?ts=1651827734448"
+      ]
+    },
+    {
+      "title": "SHIRT",
+      "price": 4990,
+      "brand": "ALLENSOLLY",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307"
+      ]
+    },
+    {
+      "title": "TOP",
+      "price": 4990,
+      "brand": "LEVIS",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/9878/117/070/12/w/314/9878117070_2_1_1.jpg?ts=1651841713202"
+      ]
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "mona jayan",
+      "email": "mona@gmail.com",
+      "password": "mona",
+      "mobile": "234567890",
+      "id": 11
+    },
+    {
+      "fullname": "Nora Jayan",
+      "email": "nora@gmail.com",
+      "password": "nora",
+      "mobile": "9633246347",
+      "id": 12
+    },
+    {
+      "fullname": "isa",
+      "email": "isa@gmail.com",
+      "password": "isa",
+      "mobile": "12345678",
+      "id": 13
+    },
+    {
+      "fullname": "liza",
+      "email": "liza@gmail.com",
+      "password": "liza",
+      "mobile": "1234567",
+      "id": 14
+    },
+    {
+      "fullname": "mohit",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "123456789",
+      "id": 15
+    },
+    {
+      "fullname": "mohit ",
+      "email": "mohit@gmail.com",
+      "password": "1234",
+      "mobile": "123456789",
+      "id": 16
+    },
+    {
+      "fullname": "liza jayan",
+      "email": "lizaaaa@gmail.com",
+      "password": "reta",
+      "mobile": "09633246347",
+      "id": 17
+    },
+    {
+      "fullname": "best",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "1234567890",
+      "id": 18
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "fullname": "alb",
+      "eail": "",
+      "password": "alb",
+      "mobile": "234567890",
+      "id": 21
+    },
+    {
+      "fullname": "elza",
+      "eail": "elza@gmail.com",
+      "password": "elza",
+      "mobile": "123456789",
+      "id": 22
+    },
+    {
+      "fullname": "elza",
+      "eail": "elza@gmail.com",
+      "password": "elza",
+      "mobile": "1234567890",
+      "id": 23
+    },
+    {
+      "fullname": "bibin",
+      "email": "",
+      "password": "bibin",
+      "mobile": "0987654321",
+      "id": 24
+    },
+    {
+      "fullname": "nvc",
+      "email": "lkjhg",
+      "password": "kjhgvc",
+      "mobile": "lkjhg",
+      "id": 25
+    },
+    {
+      "fullname": "kutta",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "9605256347",
+      "id": 26
+    },
+    {
+      "fullname": "kutta",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "9605256347",
+      "id": 27
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 28
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 29
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 30
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 31
+    },
+    {
+      "fullname": "",
+      "email": "nora@gmail.com",
+      "password": "123",
+      "mobile": "",
+      "id": 32
+    },
+    {
+      "fullname": "mona",
+      "email": "mona@gmail.com",
+      "password": "098",
+      "mobile": "1234567890",
+      "id": 33
+    },
+    {
+      "fullname": "",
+      "email": "mona@gmail.com",
+      "password": "098",
+      "mobile": "",
+      "id": 34
+    },
+    {
+      "fullname": "",
+      "email": "mona@gmail.com",
+      "password": "098",
+      "mobile": "",
+      "id": 35
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 36
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 37
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 38
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 39
+    },
+    {
+      "fullname": "",
+      "email": "mona@gmail.com",
+      "password": "098",
+      "mobile": "",
+      "id": 40
+    },
+    {
+      "fullname": "poihg",
+      "email": "ljhc",
+      "password": "ljh",
+      "mobile": "ljhv",
+      "id": 41
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 42
+    }
+  ],
+  "electronics": [
+    {
+      "title": "MOTOROLA",
+      "price": 2800,
+      "brand": "MOBILE",
+      "images": [
+        "https://americaemall.com/wp-content/uploads/2020/03/motorola-moto-e5-plus-2048x2048.jpg"
+      ]
+    },
+    {
+      "title": "REDMI",
+      "price": 2000,
+      "brand": "MOBILE",
+      "images": [
+        "https://i1.wp.com/mobilecryptotech.com/wp-content/uploads/2018/09/IMG_20180919_122120.jpg?fit=1920%2C1897&ssl=1"
+      ]
+    },
+    {
+      "title": "IPHONE 10",
+      "price": 2800,
+      "brand": "MOBILE",
+      "images": [
+        "https://www.yourtokri.com/wp-content/uploads/2019/01/1a.jpg"
+      ]
+    },
+    {
+      "title": "IPHONE 14",
+      "price": 1800,
+      "brand": "MOBILE",
+      "images": [
+        "https://sivtelegram.media/wp-content/uploads/2022/09/1662402157_iPhone-14-revealing-the-alleged-technical-sheet-of-all-mobile-1024x576.jpg"
+      ]
+    }
+  ],
+  "jewellary": [
+    {
+      "title": "NECKLACE",
+      "price": 5490,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.dOA_M-Llfct1mE2SRJhjWgHaFK?w=249&h=180&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 8990,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.ZYH-VQoJhJcXHsZmD4DX1QHaHa?w=217&h=218&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 1249,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.T8QKydtyeymBS644D7g90AHaEc?w=322&h=193&c=7&r=0&o=5&pid=1.7"
+      ]
+    },
+    {
+      "title": "NECKLACE",
+      "price": 1800,
+      "brand": "GOLD",
+      "images": [
+        "https://th.bing.com/th/id/OIP.TqiCoIZuScriWD2ruyQ1cAHaFm?w=240&h=182&c=7&r=0&o=5&pid=1.7"
+      ]
+    }
+  ],
+  "fashion": [
+    {
+      "title": "TOP",
+      "price": 3800,
+      "brand": "LIBAS",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3465/270/250/12/w/314/3465270250_2_1_1.jpg?ts=1651841659071"
+      ]
+    },
+    {
+      "title": "DRESS",
+      "price": 4990,
+      "brand": "W",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/3739/855/330/2/w/314/3739855330_1_1_1.jpg?ts=1651827734448"
+      ]
+    },
+    {
+      "title": "SHIRT",
+      "price": 4990,
+      "brand": "ALLENSOLLY",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/2/p/1063/035/711/2/w/371/1063035711_2_1_1.jpg?ts=1648724945307"
+      ]
+    },
+    {
+      "title": "TOP",
+      "price": 4990,
+      "brand": "LEVIS",
+      "images": [
+        "https://static.zara.net/photos///2022/V/0/1/p/9878/117/070/12/w/314/9878117070_2_1_1.jpg?ts=1651841713202"
+      ]
+    }
+  ],
+  "user":[
+    {"id":1,"name":"nora","age":"23"}
+  ]
+}

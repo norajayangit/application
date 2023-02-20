@@ -1,0 +1,30 @@
+<div class="container">
+            
+    <div class="row">
+
+        <ng-container *ngFor="let item of productdata ">
+
+       <div >
+
+                <img class="img" src="{{item.images}}" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                
+
+                <p><strong>Price:</strong>{{item.price}}</p>
+                <button class="btn btn-info" (click)=addtocart(item)>Add to Cart</button> 
+                
+
+                </div>
+
+            </ng-container>
+
+               
+
+               
+
+   
+
+            </div>
+
+        </div>
+
